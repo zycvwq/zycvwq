@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://litter.catbox.moe/5feymwgtg80mdvo2.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/kjfok2.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
@@ -10,19 +10,19 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="30%">
-        <img src="https://litter.catbox.moe/xw36jufs104md386.png" alt="Project Visual" width="110%"/>
-        <img src="https://litter.catbox.moe/k5hn2c3sdo5tmk8j.png" alt="Project Visual" width="67%"/>
+        <img src="https://files.catbox.moe/mmyjv7.png" alt="Project Visual" width="110%"/>
+        <img src="https://files.catbox.moe/hrf7nx.png" alt="Project Visual" width="67%"/>
       </td>
       <td align="center" valign="middle" width="10%">
-        <a href="https://github.com/zycvwq"><img src="https://litter.catbox.moe/3mfjeo20udi7tnxb.png" alt="Border 1"/></a>
+        <a href="https://github.com/zycvwq"><img src="https://files.catbox.moe/itgu7i.png" alt="Border 1"/></a>
         <br/><br/>
-        <a href="https://zycvwq.straw.page/"><img src="https://litter.catbox.moe/gjorxps4tsrh2dio.png" alt="Button 1"/></a>
+        <a href="https://zycvwq.straw.page/"><img src="https://files.catbox.moe/292ww9.png" alt="Button 1"/></a>
         <br/><br/>
-        <a href="https://pronouns.cc/@zycvwq"><img src="https://litter.catbox.moe/btf7t9ozd9pyto3w.png" alt="Button 3"/></a>
+        <a href="https://pronouns.cc/@zycvwq"><img src="https://files.catbox.moe/sgihjf.png" alt="Button 3"/></a>
         <br/><br/>
-        <a href="https://fluffle.cc/murasakibara"><img src="https://litter.catbox.moe/a5lesfhzpn9flyze.png" alt="Button 4"/></a>
+        <a href="https://fluffle.cc/murasakibara"><img src="https://files.catbox.moe/dyj631.png" alt="Button 4"/></a>
         <br/><br/>
-        <a href="https://github.com/zycvwq"><img src="https://litter.catbox.moe/pgynp88qazsownny.png" alt="Border 2"/></a>
+        <a href="https://github.com/zycvwq"><img src="https://files.catbox.moe/jiffxu.png" alt="Border 2"/></a>
       </td>
     </tr>
   </table>
@@ -47,5 +47,5 @@
 </div>
 
 <p align="center">
-  <img src="https://litter.catbox.moe/bdnk3mfo0lii0ob3.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/8mmeds.png"style="width: 100%; height: auto;" />
 </p>
